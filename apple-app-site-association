@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WX9VZ58J6W.com.zorkdev.MindTheApp",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": [
+            "WX9VZ58J6W.com.zorkdev.MindTheApp.Clip"
+        ]
+    },
+    "activitycontinuation": {
+        "apps": [
+            "WX9VZ58J6W.com.zorkdev.MindTheApp"
+        ]
+    }
+}
